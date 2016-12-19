@@ -52,11 +52,9 @@ chmod 777 beyond.sh
 screen ./beyond.sh
 ```
 
-#Developer&Founder : 
-#[SoLiD021](https://telegram.me/SoLiD021)
+#Editor : 
+#[SoLiD021](https://telegram.me/sudo_bibak)
 
-#Developer&Manager : 
-#[AliReza](https://telegram.me/CliApi)
 
 * * *
 
@@ -67,11 +65,10 @@ screen ./beyond.sh
 
 #Team Channel :
 
-#[@BeyondTeam](https://telegram.me/BeyondTeam)
+#[BangTeam](https://telegram.me/Tele_bang)
 
 ###اگر مشکلی داشتید به لینک زیر بیاید و مطرح کنید
 ###If You Have Any Problem With Source, Join To Link And Ask About Your Problem
-#[Group Support](https://telegram.me/joinchat/DH-5lD7jQzz0TsOC3Ar5Tg)
-
+#[Group Support](https://telegram.me/joinchat/Elkygj_sLdHXPFBMLeh73Q)
 #موفق باشید -_-
 #Good Luck -_-
