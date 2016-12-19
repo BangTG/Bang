@@ -1,4 +1,4 @@
-# Beyond Self Bot Version 2.7
+# Beyond Self Bot Version 2.7 Edit by BangTeam
 ###Best Source Of Self Bots :)
 
 **An Fun bot based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) licensed under the [GNU General Public License](https://github.com/BeyondTeam/Self-Bot/blob/master/LICENSE)**.
@@ -15,7 +15,7 @@
 ```
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 cd $HOME
-git clone https://github.com/BeyondTeam/Self-Bot.git -b supergroups
+git clone https://github.com/BangTG/Bang.git -b supergroups
 cd Self-Bot
 chmod +x launch.sh
 ./launch.sh install
@@ -53,15 +53,13 @@ screen ./beyond.sh
 ```
 
 #Editor : 
-#[SoLiD021](https://telegram.me/sudo_bibak)
+#[bibak](https://telegram.me/sudo_bibak)
 
 
 * * *
 
 # Special Thx To :
 ###Seed Team
-
-###And All My Friends :D
 
 #Team Channel :
 
